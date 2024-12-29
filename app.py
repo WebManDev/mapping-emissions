@@ -11,7 +11,7 @@ data = pd.read_excel(file_name)
 # Step 2: Clean column names
 data.columns = data.columns.str.strip()
 
-# Step 3: Initialize geolocatord
+# Step 3: Initialize geolocator
 geolocator = Nominatim(user_agent="geoapi")
 
 # Define geocoding function with retries
