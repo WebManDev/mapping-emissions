@@ -1,2 +1,9 @@
 *.html filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.geojson filter=lfs diff=lfs merge=lfs -text
+2023[[:space:]]Disclosed[[:space:]]Benchmarking[[:space:]]Data[[:space:]]for[[:space:]]All[[:space:]]Covered[[:space:]]Buildings.xlsx filter=lfs diff=lfs merge=lfs -text
+h.geojson filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
+montgomery_map_with_smoke_icons_minified.html filter=lfs diff=lfs merge=lfs -text
+smoke.png filter=lfs diff=lfs merge=lfs -text
